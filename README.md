@@ -19,12 +19,12 @@ UrlShortener provides a complete solution for link management. Beyond just short
 
 ## Key Features
 
-  * ** Shorten Links:** Instantly generate concise, shareable short URLs for any long link.
-  * ** Analytics Dashboard:** Access a powerful dashboard to track the performance of every link, showing the total number of clicks.
-  * ** User Tracking:** Monitor granular link usage, tracking individual clicks associated with authenticated users.
-  * ** User Authentication:** Secure login and signup functionality powered by JWT for a personalized and private link management experience.
-  * ** Modern UI:** A smooth, reactive frontend built with ReactJS for an excellent user experience.
-  * ** Fast & Scalable:** A robust and efficient backend powered by Spring Boot ensures high performance and scalability.
+  *  Shorten Links: Instantly generate concise, shareable short URLs for any long link.
+  *  Analytics Dashboard: Access a powerful dashboard to track the performance of every link, showing the total number of clicks.
+  *  User Tracking: Monitor granular link usage, tracking individual clicks associated with authenticated users.
+  *  User Authentication: Secure login and signup functionality powered by JWT for a personalized and private link management experience.
+  *  Modern UI: A smooth, reactive frontend built with ReactJS for an excellent user experience.
+  *  Fast & Scalable: A robust and efficient backend powered by Spring Boot ensures high performance and scalability.
 
 ## Tech Stack
 
